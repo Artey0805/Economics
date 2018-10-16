@@ -1,0 +1,9 @@
+.sbt
+.idea
+*.dcu
+*.obj
+*.dll
+*.exe
+*.class
+thumbs.db
+*.bak
